@@ -1,0 +1,458 @@
+{
+    "@graph": [
+        {
+            "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_ttl",
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid in Turtle rdf-formaat."
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/text/turtle"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-meeteenheid.git"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid, in Turtle rdf-formaat."
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-meeteenheid.0.1.0.meeteenheid_ttl.html"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_ttl"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid, geserialiseerd in Turtle bestand."
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-meeteenheid.0.1.0.meeteenheid_ttl",
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:format": {
+                "@id": "file_type:RDF_TURTLE"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-03",
+                "@type": "xsd:date"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-meeteenheid.0.1.0.meeteenheid.ttl"
+            },
+            "@type": "dcat:Distribution"
+        },
+        {
+            "@id": "omg_dataset:codelijst-meeteenheid.0.1.0",
+            "dcat:theme": [
+                {
+                    "@id": "eurovoc:2407"
+                },
+                {
+                    "@id": "gemet:10087"
+                },
+                {
+                    "@id": "datatheme_eu:ENVI"
+                },
+                {
+                    "@id": "datatheme_be:ENVI"
+                }
+            ],
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "owl:versionInfo": "0.1.0",
+            "dcat:distribution": [
+                {
+                    "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_rdf"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_csv"
+                },
+                {
+                    "@id": "omg_id:package/be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-meeteenheid.0.1.0"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_jsonld"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_ttl"
+                },
+                {
+                    "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_xsd"
+                }
+            ],
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid (0.1.0)"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Deze dataset bevat een lijst van testconcepten, die gebruikt worden binnen het beleidsdomein bodemenondergrond van de Vlaamse Overheid."
+            },
+            "dcat:landingPage": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/catalog/codelijst.html"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dc:language": {
+                "@language": "nl",
+                "@value": "nl"
+            },
+            "dcterms:spatial": [
+                {
+                    "@id": "https://www.geonames.org/3337388/flanders"
+                },
+                {
+                    "@id": "country:BEL"
+                }
+            ],
+            "dcterms:issued": {
+                "@value": "2024-01-03",
+                "@type": "xsd:date"
+            },
+            "@type": "dcat:Dataset",
+            "dcterms:identifier": {
+                "@id": "omg_dataset:codelijst-meeteenheid.0.1.0"
+            },
+            "dcterms:license": {
+                "@id": "http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.dataset.codelijst-meeteenheid.0.1.0",
+            "dcterms:isVersionOf": {
+                "@id": "omg_dataset:codelijst-meeteenheid"
+            },
+            "dcterms:alternative": {
+                "@language": "nl",
+                "@value": "Dataset codelijst meeteenheid"
+            },
+            "void:rootResource": {
+                "@id": "omg_conceptscheme:meeteenheid"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid"
+            },
+            "dcterms:language": {
+                "@id": "language:NLD"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/dataset/codelijst-meeteenheid.0.1.0.html"
+            },
+            "dcterms:accrualPeriodicity": {
+                "@id": "frequency:IRREG"
+            },
+            "dcterms:temporal": {
+                "@id": "omg_id:periodoftime/dataset_omg"
+            },
+            "dcterms:publisher": {
+                "@id": "ovo:OVO003323"
+            },
+            "dcat:contactPoint": {
+                "@id": "omg_id:vcard/helpdesk"
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_rdf",
+            "dcterms:format": {
+                "@id": "file_type:RDF_XML"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-meeteenheid.git"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/rdf+xml"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-03",
+                "@type": "xsd:date"
+            },
+            "@type": "dcat:Distribution",
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_rdf"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid, geserialiseerd in rdf/xml bestand."
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid in xml rdf-formaat."
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-meeteenheid.0.1.0.meeteenheid_rdf.html"
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-meeteenheid.0.1.0.meeteenheid.rdf"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid, in xml rdf-formaat."
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-meeteenheid.0.1.0.meeteenheid_rdf",
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            }
+        },
+        {
+            "@id": "omg_dataset:codelijst-meeteenheid",
+            "dcterms:hasVersion": {
+                "@id": "omg_dataset:codelijst-meeteenheid.0.1.0"
+            },
+            "@type": "dcat:Dataset"
+        },
+        {
+            "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_csv",
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-meeteenheid.0.1.0.meeteenheid_csv.html"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid, geserialiseerd in csv tabelformaat."
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-meeteenheid.0.1.0.meeteenheid.csv"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_csv"
+            },
+            "dcterms:format": {
+                "@id": "file_type:CSV"
+            },
+            "@type": "dcat:Distribution",
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-meeteenheid.git"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/text/csv"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-meeteenheid.0.1.0.meeteenheid_csv",
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid, in text/csv formaat."
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-03",
+                "@type": "xsd:date"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid in text/csv formaat."
+            }
+        },
+        {
+            "@id": "omg_id:package/be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-meeteenheid.0.1.0",
+            "spdx:packageName": "be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-meeteenheid",
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid in jar-formaat."
+            },
+            "dcterms:format": {
+                "@id": "file_type:JAR"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "spdx:packageFileName": "codelijst-meeteenheid-0.1.0.jar",
+            "@type": [
+                "dcat:Distribution",
+                "spdx:Package"
+            ],
+            "dcterms:identifier": {
+                "@id": "omg_id:package/be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-meeteenheid.0.1.0"
+            },
+            "spdx:downloadLocation": {
+                "@id": "https://repo.omgeving.vlaanderen.be/artifactory/release/be/vlaanderen/bodemenondergrond/data/id/graph/codelijst-meeteenheid/0.1.0/codelijst-meeteenheid-0.1.0.jar"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.graph.codelijst-meeteenheid.0.1.0",
+            "dcat:downloadURL": {
+                "@id": "https://repo.omgeving.vlaanderen.be/artifactory/release/be/vlaanderen/bodemenondergrond/data/id/graph/codelijst-meeteenheid/0.1.0/codelijst-meeteenheid-0.1.0.jar"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid, Jar maven package."
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Package codelijst-meeteenheid"
+            },
+            "spdx:versionInfo": "0.1.0",
+            "dcterms:issued": {
+                "@value": "2024-01-03",
+                "@type": "xsd:date"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_jsonld",
+            "dcterms:issued": {
+                "@value": "2024-01-03",
+                "@type": "xsd:date"
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-meeteenheid.0.1.0.meeteenheid.jsonld"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-meeteenheid.git"
+            },
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_jsonld"
+            },
+            "@type": "dcat:Distribution",
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcterms:format": {
+                "@id": "file_type:JSON_LD"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/ld+json"
+            },
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid, in jsonld rdf-formaat."
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-meeteenheid.0.1.0.meeteenheid_jsonld.html"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid, geserialiseerd in een jsonld bestand."
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-meeteenheid.0.1.0.meeteenheid_jsonld",
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid in jsonld rdf-formaat."
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            }
+        },
+        {
+            "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_xsd",
+            "dcterms:identifier": {
+                "@id": "omg_distribution:codelijst-meeteenheid.0.1.0.meeteenheid_xsd"
+            },
+            "dcterms:description": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid, geserialiseerd in een xsd bestand met een enumeratie."
+            },
+            "dcat:downloadURL": {
+                "@id": "https://datasets.bodemenondergrond.vlaanderen.be/be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-meeteenheid.0.1.0.meeteenheid.xsd"
+            },
+            "foaf:page": {
+                "@id": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/codelijst-meeteenheid.0.1.0.meeteenheid_xsd.html"
+            },
+            "dcat:accessURL": {
+                "@id": "https://github.com/bodemenondergrond/codelijst-meeteenheid.git"
+            },
+            "dcterms:issued": {
+                "@value": "2024-01-03",
+                "@type": "xsd:date"
+            },
+            "dcterms:rightsHolder": {
+                "@id": "ovo:OVO003751"
+            },
+            "dcterms:accessRights": {
+                "@id": "access_right:PUBLIC"
+            },
+            "dcat:mediaType": {
+                "@id": "https://www.iana.org/assignments/media-types/application/xml"
+            },
+            "@type": "dcat:Distribution",
+            "dc:identifier": "be.vlaanderen.bodemenondergrond.data.id.distribution.codelijst-meeteenheid.0.1.0.meeteenheid_xsd",
+            "rdfs:label": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid, in xml xsd-formaat."
+            },
+            "dcterms:title": {
+                "@language": "nl",
+                "@value": "Codelijst meeteenheid in xml/xsd formaat."
+            },
+            "dcterms:format": {
+                "@id": "file_type:XSD"
+            },
+            "dcat:compressFormat": {
+                "@id": "http://www.iana.org/assignments/media-types/application/gzip"
+            }
+        },
+        {
+            "@id": "omg_catalog:codelijst",
+            "dcat:dataset": {
+                "@id": "omg_dataset:codelijst-meeteenheid"
+            },
+            "@type": "dcat:Catalog"
+        }
+    ],
+    "@context": {
+        "country": "http://publications.europa.eu/resource/authority/country/",
+        "formats": "http://www.w3.org/ns/formats/",
+        "spdx": "http://spdx.org/rdf/terms#",
+        "omg_catalog": "https://data.omgeving.vlaanderen.be/id/catalog/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "ssd": "http://www.w3.org/ns/sparql-service-description#",
+        "omg_graphcollection": "https://data.bodemenondergrond.vlaanderen.be/id/graphcollection/",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "datatheme_eu": "http://publications.europa.eu/resource/authority/data-theme/",
+        "eurovoc": "http://eurovoc.europa.eu/",
+        "language": "http://publications.europa.eu/resource/authority/language/",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "omg_id": "https://data.bodemenondergrond.vlaanderen.be/id/",
+        "access_right": "http://publications.europa.eu/resource/authority/access-right/",
+        "omg_dataset": "https://data.bodemenondergrond.vlaanderen.be/id/dataset/",
+        "frequency": "http://publications.europa.eu/resource/authority/frequency/",
+        "sd": "http://www.w3.org/ns/sparql-service-description#",
+        "omg_collection": "https://data.bodemenondergrond.vlaanderen.be/id/collection/",
+        "omg_periodoftime": "https://data.bodemenondergrond.vlaanderen.be/id/periodoftime/",
+        "file_type": "http://publications.europa.eu/resource/authority/file-type/",
+        "dcterms": "http://purl.org/dc/terms/",
+        "dcat": "http://www.w3.org/ns/dcat#",
+        "assettype": "http://purl.org/adms/assettype/",
+        "foaf": "http://xmlns.com/foaf/0.1/",
+        "omg_dataservice": "https://data.bodemenondergrond.vlaanderen.be/id/dataservice/",
+        "void": "http://rdfs.org/ns/void#",
+        "adms": "http://www.w3.org/ns/adms#",
+        "gemet": "http://www.eionet.europa.eu/gemet/concept/",
+        "omg_named_graph": "https://data.bodemenondergrond.vlaanderen.be/id/namedgraph/",
+        "omg_vcard": "https://data.bodemenondergrond.vlaanderen.be/id/vcard/",
+        "ovo": "http://data.vlaanderen.be/id/organisatie/",
+        "vcard": "http://www.w3.org/2006/vcard/ns#",
+        "omg_ontology": "https://data.bodemenondergrond.vlaanderen.be/id/ontology/",
+        "omg_graph": "https://data.bodemenondergrond.vlaanderen.be/id/graph/",
+        "omg_distribution": "https://data.bodemenondergrond.vlaanderen.be/id/distribution/",
+        "omg_service": "https://data.bodemenondergrond.vlaanderen.be/id/service/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "datatheme_be": "http://vocab.belgif.be/auth/datatheme/",
+        "omg_conceptscheme": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
+        "omg_package": "https://data.bodemenondergrond.vlaanderen.be/id/package/",
+        "dc": "http://purl.org/dc/elements/1.1/"
+    }
+}

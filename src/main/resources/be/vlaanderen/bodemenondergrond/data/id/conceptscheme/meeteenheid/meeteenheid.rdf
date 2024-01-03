@@ -1,0 +1,605 @@
+<rdf:RDF
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xkos="http://rdf-vocabulary.ddialliance.org/xkos#"
+    xmlns:ct="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/"
+    xmlns:cs="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/"
+    xmlns:colt="https://data.bodemenondergrond.vlaanderen.be/id/collection/meeteenheid/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" > 
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/1000">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">µg/kg droge stof</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>1000</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/9">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">milligram per liter</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>9</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/119">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">Volt</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>119</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/collection/meeteenheid/meeteenheid">
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/107"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/117"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/127"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/137"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/19"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/3"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/104"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/114"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/124"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/134"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/144"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/130"/>
+    <skos:mappingRelation rdf:resource="file:///tmp/RtmpQWLGPP/meeteenheid"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/140"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/109"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/119"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/111"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/121"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/101"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/131"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/23"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/20"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/7"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/4"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/118"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/128"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/138"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/9"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/105"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/115"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/125"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/B_PF"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/135"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/145"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/141"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/24"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/1"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/102"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/112"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/122"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/132"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/8"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/1000"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/B_VV"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/21"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/129"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/139"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/18"/>
+    <skos:inScheme rdf:resource="file:///tmp/RtmpQWLGPP/cs"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/2"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/106"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/116"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/126"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/136"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/142"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/200"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/103"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/113"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/123"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/133"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/143"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/108"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/22"/>
+    <skos:prefLabel xml:lang="nl">Collectie van meeteenheid.</skos:prefLabel>
+    <dc:identifier>meeteenheid</dc:identifier>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/100"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/110"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/120"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/110">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mg Pt/L</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>110</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/142">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">meq/100g</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>142</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/130">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">g MB/100g droog monster</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>130</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/23">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">test2</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>23</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/118">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">Franse _hardheidsgraden</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>118</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/106">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mg N/l</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>106</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/138">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">g/cm3</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>138</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/8">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">hardheids graden</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>8</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/126">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">g/kg</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>126</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/114">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">meq/l</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>114</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/102">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">Sörensen</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>102</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/134">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">µm</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>134</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/4">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">microSiemens per cm</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>4</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/122">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">Duitse_hardheidsgraden</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>122</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/19">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">Franse hardheidsgraden</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>19</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/121">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">parts per billion</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>121</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/141">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">cmol(+)/kg</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>141</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/22">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">Duitse hardheidsgraden</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>22</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/129">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">t/m³</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>129</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/117">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">/ml</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>117</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/105">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mS/cm (20°C)</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>105</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/137">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">µS/cm bij 20°C</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>137</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/125">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">µS/cm (25°C)</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>125</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/1">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">Onbekend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>1</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/113">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">/250ml</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>113</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/101">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mg O2/l</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>101</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/18">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">microgram per liter</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>18</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/145">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mm</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>145</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/133">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">g/100g</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>133</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/B_VV">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">m3/m3</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>B_VV</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/109">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mg S/L</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>109</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/132">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">M</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>132</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/120">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">parts per million</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>120</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/140">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mmol/kg</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>140</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/21">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">millimol per liter</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>21</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/6">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">millivolt</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>6</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/128">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">m/s</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>128</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/116">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">µS/cm(20°C)</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>116</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/B_PF">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">hPa</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>B_PF</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/104">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mS/cm (25°C)</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>104</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/136">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">m</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>136</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/2">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">nanogram per liter</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>2</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/124">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mg CaCO3/l</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>124</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/112">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">normaal</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>112</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/144">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">nm</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>144</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/100">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">/100ml</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>100</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/108">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mg P/l</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>108</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid">
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/24"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/22"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/128"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/126"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/B_PF"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/124"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/144"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/109"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/107"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/127"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/123"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/18"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/121"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/142"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/119"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/141"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/117"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/113"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/133"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/131"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/116"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/112"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/9"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/7"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/110"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/3"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/6"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/2"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/23"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/21"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/108"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/B_VV"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/130"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/106"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/138"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/20"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/102"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/136"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/122"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/120"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/105"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/103"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/101"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/140"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/115"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/111"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/1"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/129"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/125"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/145"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/143"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/19"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/1000"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/139"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/137"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/135"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/118"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/104"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/114"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/100"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/134"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/132"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/8"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/200"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/143">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">g</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>143</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/131">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">cm</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>131</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/20">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">Kelvin</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>20</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/107">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mEq/100mL</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>107</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/24">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">test3</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>24</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/139">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mg/kg</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>139</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/127">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">%</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>127</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/115">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">-</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>115</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/7">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">milimeter per liter</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>7</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/103">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">/50ml</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>103</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/135">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">t/ha</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>135</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/200">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mTAW</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>200</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/123">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">mg/l Platinum-Cobalt</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>123</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/111">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">helder</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>111</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/3">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <skos:prefLabel xml:lang="nl">graden Celsius</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/meeteenheid"/>
+    <dc:identifier>3</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+</rdf:RDF>

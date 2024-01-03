@@ -1,0 +1,408 @@
+@prefix colt: <https://data.bodemenondergrond.vlaanderen.be/id/collection/meeteenheid/> .
+@prefix cs:   <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/> .
+@prefix ct:   <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/> .
+@prefix dc:   <http://purl.org/dc/elements/1.1/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+ct:119  rdf:type           skos:Concept;
+        dc:identifier      "119";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "Volt"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:200  rdf:type           skos:Concept;
+        dc:identifier      "200";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mTAW"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:22   rdf:type           skos:Concept;
+        dc:identifier      "22";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "Duitse hardheidsgraden"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:9    rdf:type           skos:Concept;
+        dc:identifier      "9";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "milligram per liter"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:106  rdf:type           skos:Concept;
+        dc:identifier      "106";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mg N/l"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:134  rdf:type           skos:Concept;
+        dc:identifier      "134";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "µm"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:121  rdf:type           skos:Concept;
+        dc:identifier      "121";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "parts per billion"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:127  rdf:type           skos:Concept;
+        dc:identifier      "127";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "%"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:114  rdf:type           skos:Concept;
+        dc:identifier      "114";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "meq/l"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:4    rdf:type           skos:Concept;
+        dc:identifier      "4";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "microSiemens per cm"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:142  rdf:type           skos:Concept;
+        dc:identifier      "142";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "meq/100g"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:101  rdf:type           skos:Concept;
+        dc:identifier      "101";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mg O2/l"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:1000  rdf:type          skos:Concept;
+        dc:identifier      "1000";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "µg/kg droge stof"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:23   rdf:type           skos:Concept;
+        dc:identifier      "23";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "test2"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:107  rdf:type           skos:Concept;
+        dc:identifier      "107";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mEq/100mL"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:135  rdf:type           skos:Concept;
+        dc:identifier      "135";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "t/ha"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:122  rdf:type           skos:Concept;
+        dc:identifier      "122";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "Duitse_hardheidsgraden"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:128  rdf:type           skos:Concept;
+        dc:identifier      "128";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "m/s"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:115  rdf:type           skos:Concept;
+        dc:identifier      "115";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "-"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:143  rdf:type           skos:Concept;
+        dc:identifier      "143";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "g"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:102  rdf:type           skos:Concept;
+        dc:identifier      "102";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "Sörensen"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:130  rdf:type           skos:Concept;
+        dc:identifier      "130";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "g MB/100g droog monster"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:24   rdf:type           skos:Concept;
+        dc:identifier      "24";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "test3"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:B_VV  rdf:type          skos:Concept;
+        dc:identifier      "B_VV";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "m3/m3"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:108  rdf:type           skos:Concept;
+        dc:identifier      "108";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mg P/l"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:136  rdf:type           skos:Concept;
+        dc:identifier      "136";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "m"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:123  rdf:type           skos:Concept;
+        dc:identifier      "123";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mg/l Platinum-Cobalt"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:110  rdf:type           skos:Concept;
+        dc:identifier      "110";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mg Pt/L"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:129  rdf:type           skos:Concept;
+        dc:identifier      "129";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "t/m³"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:116  rdf:type           skos:Concept;
+        dc:identifier      "116";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "µS/cm(20°C)"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:6    rdf:type           skos:Concept;
+        dc:identifier      "6";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "millivolt"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:144  rdf:type           skos:Concept;
+        dc:identifier      "144";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "nm"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:103  rdf:type           skos:Concept;
+        dc:identifier      "103";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "/50ml"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:131  rdf:type           skos:Concept;
+        dc:identifier      "131";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "cm"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:109  rdf:type           skos:Concept;
+        dc:identifier      "109";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mg S/L"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:137  rdf:type           skos:Concept;
+        dc:identifier      "137";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "µS/cm bij 20°C"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+cs:meeteenheid  skos:hasTopConcept  ct:24 , ct:22 , ct:126 , ct:128 , ct:B_PF , ct:124 , ct:109 , ct:144 , ct:107 , ct:127 , ct:123 , ct:18 , ct:121 , ct:142 , ct:119 , ct:141 , ct:117 , ct:113 , ct:133 , ct:131 , ct:116 , ct:9 , ct:112 , ct:110 , ct:7 , ct:3 , ct:6 , ct:2 , ct:23 , ct:21 , ct:108 , ct:B_VV , ct:130 , ct:106 , ct:138 , ct:20 , ct:102 , ct:136 , ct:122 , ct:120 , ct:105 , ct:103 , ct:101 , ct:140 , ct:115 , ct:111 , ct:1 , ct:129 , ct:125 , ct:145 , ct:143 , ct:19 , ct:1000 , ct:139 , ct:137 , ct:135 , ct:118 , ct:104 , ct:114 , ct:100 , ct:134 , ct:132 , ct:8 , ct:200 , ct:4 .
+
+ct:124  rdf:type           skos:Concept;
+        dc:identifier      "124";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mg CaCO3/l"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:1    rdf:type           skos:Concept;
+        dc:identifier      "1";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "Onbekend"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:111  rdf:type           skos:Concept;
+        dc:identifier      "111";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "helder"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:18   rdf:type           skos:Concept;
+        dc:identifier      "18";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "microgram per liter"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:117  rdf:type           skos:Concept;
+        dc:identifier      "117";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "/ml"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:20   rdf:type           skos:Concept;
+        dc:identifier      "20";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "Kelvin"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:145  rdf:type           skos:Concept;
+        dc:identifier      "145";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mm"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:7    rdf:type           skos:Concept;
+        dc:identifier      "7";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "milimeter per liter"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:104  rdf:type           skos:Concept;
+        dc:identifier      "104";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mS/cm (25°C)"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:132  rdf:type           skos:Concept;
+        dc:identifier      "132";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "M"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:138  rdf:type           skos:Concept;
+        dc:identifier      "138";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "g/cm3"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:125  rdf:type           skos:Concept;
+        dc:identifier      "125";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "µS/cm (25°C)"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:112  rdf:type           skos:Concept;
+        dc:identifier      "112";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "normaal"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:2    rdf:type           skos:Concept;
+        dc:identifier      "2";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "nanogram per liter"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:140  rdf:type           skos:Concept;
+        dc:identifier      "140";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mmol/kg"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:19   rdf:type           skos:Concept;
+        dc:identifier      "19";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "Franse hardheidsgraden"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:118  rdf:type           skos:Concept;
+        dc:identifier      "118";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "Franse _hardheidsgraden"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:21   rdf:type           skos:Concept;
+        dc:identifier      "21";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "millimol per liter"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:8    rdf:type           skos:Concept;
+        dc:identifier      "8";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "hardheids graden"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:B_PF  rdf:type          skos:Concept;
+        dc:identifier      "B_PF";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "hPa"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:105  rdf:type           skos:Concept;
+        dc:identifier      "105";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mS/cm (20°C)"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+colt:meeteenheid  rdf:type    skos:Collection;
+        dc:identifier         "meeteenheid";
+        skos:inScheme         <file:///tmp/RtmpQWLGPP/cs>;
+        skos:mappingRelation  <file:///tmp/RtmpQWLGPP/meeteenheid>;
+        skos:member           ct:107 , ct:117 , ct:127 , ct:137 , ct:19 , ct:3 , ct:104 , ct:114 , ct:124 , ct:134 , ct:144 , ct:130 , ct:140 , ct:109 , ct:101 , ct:111 , ct:131 , ct:121 , ct:119 , ct:23 , ct:20 , ct:7 , ct:4 , ct:118 , ct:128 , ct:138 , ct:9 , ct:105 , ct:115 , ct:125 , ct:B_PF , ct:145 , ct:135 , ct:141 , ct:24 , ct:1 , ct:102 , ct:112 , ct:122 , ct:132 , ct:8 , ct:1000 , ct:B_VV , ct:21 , ct:129 , ct:139 , ct:18 , ct:2 , ct:106 , ct:116 , ct:126 , ct:136 , ct:142 , ct:200 , ct:103 , ct:113 , ct:123 , ct:133 , ct:143 , ct:108 , ct:22 , ct:100 , ct:110 , ct:120 , ct:6;
+        skos:prefLabel        "Collectie van meeteenheid."@nl .
+
+ct:133  rdf:type           skos:Concept;
+        dc:identifier      "133";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "g/100g"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:120  rdf:type           skos:Concept;
+        dc:identifier      "120";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "parts per million"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:139  rdf:type           skos:Concept;
+        dc:identifier      "139";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "mg/kg"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:126  rdf:type           skos:Concept;
+        dc:identifier      "126";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "g/kg"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:113  rdf:type           skos:Concept;
+        dc:identifier      "113";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "/250ml"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:3    rdf:type           skos:Concept;
+        dc:identifier      "3";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "graden Celsius"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:141  rdf:type           skos:Concept;
+        dc:identifier      "141";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "cmol(+)/kg"@nl;
+        skos:topConceptOf  cs:meeteenheid .
+
+ct:100  rdf:type           skos:Concept;
+        dc:identifier      "100";
+        skos:inScheme      cs:meeteenheid;
+        skos:prefLabel     "/100ml"@nl;
+        skos:topConceptOf  cs:meeteenheid .

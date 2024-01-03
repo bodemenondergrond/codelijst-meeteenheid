@@ -1,8 +1,8 @@
-# codelijst-meeteenheden
+# codelijst-meeteenheid
 
 ## Samenvatting
 
-De codelijst 'meeteenheden' bevat eenduidige benamingen van ...
+De codelijst 'meeteenheid' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud
