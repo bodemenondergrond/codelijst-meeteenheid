@@ -1,1402 +1,1130 @@
 {
-    "@graph": [
-        {
-            "@id": "ct:22",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Duitse hardheidsgraden"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "22",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "cs:meeteenheid",
-            "skos:hasTopConcept": [
-                {
-                    "@id": "ct:24"
-                },
-                {
-                    "@id": "ct:22"
-                },
-                {
-                    "@id": "ct:128"
-                },
-                {
-                    "@id": "ct:126"
-                },
-                {
-                    "@id": "ct:B_PF"
-                },
-                {
-                    "@id": "ct:124"
-                },
-                {
-                    "@id": "ct:144"
-                },
-                {
-                    "@id": "ct:109"
-                },
-                {
-                    "@id": "ct:107"
-                },
-                {
-                    "@id": "ct:127"
-                },
-                {
-                    "@id": "ct:123"
-                },
-                {
-                    "@id": "ct:18"
-                },
-                {
-                    "@id": "ct:121"
-                },
-                {
-                    "@id": "ct:142"
-                },
-                {
-                    "@id": "ct:119"
-                },
-                {
-                    "@id": "ct:141"
-                },
-                {
-                    "@id": "ct:117"
-                },
-                {
-                    "@id": "ct:113"
-                },
-                {
-                    "@id": "ct:133"
-                },
-                {
-                    "@id": "ct:131"
-                },
-                {
-                    "@id": "ct:116"
-                },
-                {
-                    "@id": "ct:112"
-                },
-                {
-                    "@id": "ct:9"
-                },
-                {
-                    "@id": "ct:7"
-                },
-                {
-                    "@id": "ct:110"
-                },
-                {
-                    "@id": "ct:3"
-                },
-                {
-                    "@id": "ct:6"
-                },
-                {
-                    "@id": "ct:2"
-                },
-                {
-                    "@id": "ct:23"
-                },
-                {
-                    "@id": "ct:21"
-                },
-                {
-                    "@id": "ct:108"
-                },
-                {
-                    "@id": "ct:B_VV"
-                },
-                {
-                    "@id": "ct:130"
-                },
-                {
-                    "@id": "ct:106"
-                },
-                {
-                    "@id": "ct:138"
-                },
-                {
-                    "@id": "ct:20"
-                },
-                {
-                    "@id": "ct:102"
-                },
-                {
-                    "@id": "ct:136"
-                },
-                {
-                    "@id": "ct:122"
-                },
-                {
-                    "@id": "ct:120"
-                },
-                {
-                    "@id": "ct:105"
-                },
-                {
-                    "@id": "ct:103"
-                },
-                {
-                    "@id": "ct:101"
-                },
-                {
-                    "@id": "ct:140"
-                },
-                {
-                    "@id": "ct:115"
-                },
-                {
-                    "@id": "ct:111"
-                },
-                {
-                    "@id": "ct:1"
-                },
-                {
-                    "@id": "ct:129"
-                },
-                {
-                    "@id": "ct:125"
-                },
-                {
-                    "@id": "ct:145"
-                },
-                {
-                    "@id": "ct:143"
-                },
-                {
-                    "@id": "ct:19"
-                },
-                {
-                    "@id": "ct:1000"
-                },
-                {
-                    "@id": "ct:139"
-                },
-                {
-                    "@id": "ct:137"
-                },
-                {
-                    "@id": "ct:135"
-                },
-                {
-                    "@id": "ct:118"
-                },
-                {
-                    "@id": "ct:104"
-                },
-                {
-                    "@id": "ct:114"
-                },
-                {
-                    "@id": "ct:100"
-                },
-                {
-                    "@id": "ct:134"
-                },
-                {
-                    "@id": "ct:132"
-                },
-                {
-                    "@id": "ct:8"
-                },
-                {
-                    "@id": "ct:200"
-                },
-                {
-                    "@id": "ct:4"
-                }
-            ]
-        },
-        {
-            "@id": "ct:9",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "milligram per liter"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "9",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:119",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Volt"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "119",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:200",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mTAW"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "200",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:106",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mg N/l"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "106",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:134",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "µm"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "134",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:121",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "parts per billion"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "121",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:127",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "%"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "127",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:4",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "microSiemens per cm"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "4",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:114",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "meq/l"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "114",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:142",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "meq/100g"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "142",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:101",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mg O2/l"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "101",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:1000",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "µg/kg droge stof"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "1000",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:23",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "test2"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "23",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:107",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mEq/100mL"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "107",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:135",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "t/ha"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "135",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:122",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Duitse_hardheidsgraden"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "122",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:128",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "m/s"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "128",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:115",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "-"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "115",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:143",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "g"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "143",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:102",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Sörensen"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "102",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:130",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "g MB/100g droog monster"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "130",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:24",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "test3"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "24",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:B_VV",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "m3/m3"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "B_VV",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:108",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mg P/l"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "108",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:136",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "m"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "136",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:123",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mg/l Platinum-Cobalt"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "123",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:110",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mg Pt/L"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "110",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:129",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "t/m³"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "129",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:6",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "millivolt"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "6",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:116",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "µS/cm(20°C)"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "116",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:144",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "nm"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "144",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:103",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "/50ml"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "103",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:131",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "cm"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "131",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:109",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mg S/L"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "109",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:137",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "µS/cm bij 20°C"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "137",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:126",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "g/kg"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "126",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:B_PF",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "hPa"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "B_PF",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:124",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mg CaCO3/l"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "124",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:18",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "microgram per liter"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "18",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:141",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "cmol(+)/kg"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "141",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:117",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "/ml"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "117",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:113",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "/250ml"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "113",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:133",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "g/100g"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "133",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:112",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "normaal"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "112",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:7",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "milimeter per liter"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "7",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:3",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "graden Celsius"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "3",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:2",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "nanogram per liter"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "2",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:21",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "millimol per liter"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "21",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:138",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "g/cm3"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "138",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:20",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Kelvin"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "20",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:120",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "parts per million"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "120",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:105",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mS/cm (20°C)"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "105",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:140",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mmol/kg"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "140",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:111",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "helder"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "111",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:1",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Onbekend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "1",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:125",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "µS/cm (25°C)"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "125",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:145",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mm"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "145",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:19",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Franse hardheidsgraden"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "19",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:139",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mg/kg"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "139",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:118",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Franse _hardheidsgraden"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "118",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:104",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mS/cm (25°C)"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "104",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:100",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "/100ml"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "100",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:132",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "M"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "132",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:8",
-            "skos:topConceptOf": {
-                "@id": "cs:meeteenheid"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "hardheids graden"
-            },
-            "skos:inScheme": {
-                "@id": "cs:meeteenheid"
-            },
-            "dc:identifier": "8",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "colt:meeteenheid",
-            "skos:member": [
-                {
-                    "@id": "ct:107"
-                },
-                {
-                    "@id": "ct:117"
-                },
-                {
-                    "@id": "ct:127"
-                },
-                {
-                    "@id": "ct:137"
-                },
-                {
-                    "@id": "ct:19"
-                },
-                {
-                    "@id": "ct:3"
-                },
-                {
-                    "@id": "ct:104"
-                },
-                {
-                    "@id": "ct:114"
-                },
-                {
-                    "@id": "ct:124"
-                },
-                {
-                    "@id": "ct:134"
-                },
-                {
-                    "@id": "ct:144"
-                },
-                {
-                    "@id": "ct:130"
-                },
-                {
-                    "@id": "ct:140"
-                },
-                {
-                    "@id": "ct:109"
-                },
-                {
-                    "@id": "ct:119"
-                },
-                {
-                    "@id": "ct:111"
-                },
-                {
-                    "@id": "ct:121"
-                },
-                {
-                    "@id": "ct:101"
-                },
-                {
-                    "@id": "ct:131"
-                },
-                {
-                    "@id": "ct:23"
-                },
-                {
-                    "@id": "ct:20"
-                },
-                {
-                    "@id": "ct:7"
-                },
-                {
-                    "@id": "ct:4"
-                },
-                {
-                    "@id": "ct:118"
-                },
-                {
-                    "@id": "ct:128"
-                },
-                {
-                    "@id": "ct:138"
-                },
-                {
-                    "@id": "ct:9"
-                },
-                {
-                    "@id": "ct:105"
-                },
-                {
-                    "@id": "ct:115"
-                },
-                {
-                    "@id": "ct:125"
-                },
-                {
-                    "@id": "ct:B_PF"
-                },
-                {
-                    "@id": "ct:135"
-                },
-                {
-                    "@id": "ct:145"
-                },
-                {
-                    "@id": "ct:141"
-                },
-                {
-                    "@id": "ct:24"
-                },
-                {
-                    "@id": "ct:1"
-                },
-                {
-                    "@id": "ct:102"
-                },
-                {
-                    "@id": "ct:112"
-                },
-                {
-                    "@id": "ct:122"
-                },
-                {
-                    "@id": "ct:132"
-                },
-                {
-                    "@id": "ct:8"
-                },
-                {
-                    "@id": "ct:1000"
-                },
-                {
-                    "@id": "ct:B_VV"
-                },
-                {
-                    "@id": "ct:21"
-                },
-                {
-                    "@id": "ct:129"
-                },
-                {
-                    "@id": "ct:139"
-                },
-                {
-                    "@id": "ct:18"
-                },
-                {
-                    "@id": "ct:2"
-                },
-                {
-                    "@id": "ct:106"
-                },
-                {
-                    "@id": "ct:116"
-                },
-                {
-                    "@id": "ct:126"
-                },
-                {
-                    "@id": "ct:136"
-                },
-                {
-                    "@id": "ct:142"
-                },
-                {
-                    "@id": "ct:200"
-                },
-                {
-                    "@id": "ct:103"
-                },
-                {
-                    "@id": "ct:113"
-                },
-                {
-                    "@id": "ct:123"
-                },
-                {
-                    "@id": "ct:133"
-                },
-                {
-                    "@id": "ct:143"
-                },
-                {
-                    "@id": "ct:108"
-                },
-                {
-                    "@id": "ct:22"
-                },
-                {
-                    "@id": "ct:100"
-                },
-                {
-                    "@id": "ct:110"
-                },
-                {
-                    "@id": "ct:120"
-                },
-                {
-                    "@id": "ct:6"
-                }
-            ],
-            "skos:mappingRelation": {
-                "@id": "file:///tmp/RtmpQWLGPP/meeteenheid"
-            },
-            "@type": "skos:Collection",
-            "skos:inScheme": {
-                "@id": "file:///tmp/RtmpQWLGPP/cs"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Collectie van meeteenheid."
-            },
-            "dc:identifier": "meeteenheid"
-        }
-    ],
     "@context": {
-        "cs": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
-        "ct": "https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/",
-        "dct": "http://purl.org/dc/terms/",
-        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-        "xsd": "http://www.w3.org/2001/XMLSchema#",
-        "skos": "http://www.w3.org/2004/02/skos/core#",
-        "colt": "https://data.bodemenondergrond.vlaanderen.be/id/collection/meeteenheid/",
+        "sparql-service-description-graph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#graph",
+            "@type": "@id"
+        },
+        "defaultGraph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#defaultGraph",
+            "@type": "@id"
+        },
+        "collections": {
+            "@type": "@id",
+            "@reverse": "member"
+        },
+        "id": "@id",
+        "type": {
+            "@id": "@type",
+            "@type": "@id"
+        },
+        "source": {
+            "@id": "http://purl.org/dc/terms/source",
+            "@type": "@id"
+        },
+        "sparql-service-description-name": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#name",
+            "@type": "@id"
+        },
+        "identifier": {
+            "@id": "http://purl.org/dc/terms/identifier",
+            "@type": "@id"
+        },
+        "hasVersion": {
+            "@id": "http://purl.org/dc/terms/hasVersion",
+            "@type": "@id"
+        },
+        "isVersionOf": {
+            "@id": "http://purl.org/dc/terms/isVersionOf",
+            "@type": "@id"
+        },
+        "label": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#label",
+            "@language": "nl"
+        },
+        "distribution": {
+            "@id": "http://www.w3.org/ns/dcat#distribution",
+            "@type": "@id"
+        },
+        "alternative": {
+            "@id": "http://purl.org/dc/terms/alternative",
+            "@language": "nl"
+        },
+        "description": {
+            "@id": "http://purl.org/dc/terms/description",
+            "@language": "nl"
+        },
+        "spatial": {
+            "@id": "http://purl.org/dc/terms/spatial",
+            "@type": "@id"
+        },
+        "page": {
+            "@id": "http://xmlns.com/foaf/0.1/page",
+            "@type": "@id"
+        },
+        "theme": {
+            "@id": "http://www.w3.org/ns/dcat#theme",
+            "@type": "@id"
+        },
+        "title": {
+            "@id": "http://purl.org/dc/terms/title",
+            "@language": "nl"
+        },
+        "landingPage": {
+            "@id": "http://www.w3.org/ns/dcat#landingPage",
+            "@type": "@id"
+        },
+        "rightsHolder": {
+            "@id": "http://purl.org/dc/terms/rightsHolder",
+            "@type": "@id"
+        },
+        "language": "http://publications.europa.eu/resource/authority/language/",
+        "accrualPeriodicity": {
+            "@id": "http://purl.org/dc/terms/accrualPeriodicity",
+            "@type": "@id"
+        },
+        "publisher": {
+            "@id": "http://purl.org/dc/terms/publisher",
+            "@type": "@id"
+        },
+        "dct.language": {
+            "@id": "http://purl.org/dc/terms/language",
+            "@type": "@id"
+        },
+        "contactPoint": {
+            "@id": "http://www.w3.org/ns/dcat#contactPoint",
+            "@type": "@id"
+        },
+        "temporal": {
+            "@id": "http://purl.org/dc/terms/temporal",
+            "@type": "@id"
+        },
+        "issued": {
+            "@id": "http://purl.org/dc/terms/issued",
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "accessRights": {
+            "@id": "http://purl.org/dc/terms/accessRights",
+            "@type": "@id"
+        },
+        "license": {
+            "@id": "http://purl.org/dc/terms/license",
+            "@type": "@id"
+        },
+        "accessURL": {
+            "@id": "http://www.w3.org/ns/dcat#accessURL",
+            "@type": "@id"
+        },
+        "compressFormat": {
+            "@id": "http://www.w3.org/ns/dcat#compressFormat",
+            "@type": "@id"
+        },
+        "downloadURL": {
+            "@id": "http://www.w3.org/ns/dcat#downloadURL",
+            "@type": "@id"
+        },
+        "mediaType": {
+            "@id": "http://www.w3.org/ns/dcat#mediaType",
+            "@type": "@id"
+        },
+        "format": {
+            "@id": "http://purl.org/dc/terms/format",
+            "@type": "@id"
+        },
+        "versionInfo": {
+            "@id": "http://spdx.org/rdf/terms#versionInfo"
+        },
+        "packageName": {
+            "@id": "http://spdx.org/rdf/terms#packageName"
+        },
+        "packageFileName": {
+            "@id": "http://spdx.org/rdf/terms#packageFileName"
+        },
+        "downloadLocation": {
+            "@id": "http://spdx.org/rdf/terms#downloadLocation",
+            "@type": "@id"
+        },
+        "relationshipType_packageOf": {
+            "@id": "http://spdx.org/rdf/terms#relationshipType_packageOf",
+            "@type": "@id"
+        },
+        "availableGraphs": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#availableGraphs",
+            "@type": "@id"
+        },
+        "resultFormat": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#resultFormat",
+            "@type": "@id"
+        },
+        "feature": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#feature",
+            "@type": "@id"
+        },
+        "supportedLanguage": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#supportedLanguage",
+            "@type": "@id"
+        },
+        "url": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#url",
+            "@type": "@id"
+        },
+        "comment": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#comment",
+            "@language": "nl"
+        },
+        "defaultDataset": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#defaultDataset",
+            "@type": "@id"
+        },
+        "endpoint": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#endpoint",
+            "@type": "@id"
+        },
+        "namedGraph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#namedGraph",
+            "@type": "@id"
+        },
+        "homepage": {
+            "@id": "http://xmlns.com/foaf/0.1/homepage",
+            "@type": "@id"
+        },
+        "service": {
+            "@id": "http://www.w3.org/ns/dcat#service",
+            "@type": "@id"
+        },
+        "rootResource": {
+            "@id": "http://rdfs.org/ns/void#rootResource",
+            "@type": "@id"
+        },
+        "dataset": {
+            "@id": "http://www.w3.org/ns/dcat#dataset",
+            "@type": "@id"
+        },
+        "servesDataset": {
+            "@id": "http://www.w3.org/ns/dcat#servesDataset",
+            "@type": "@id"
+        },
+        "endpointDescription": {
+            "@id": "http://www.w3.org/ns/dcat#endpointDescription",
+            "@type": "@id"
+        },
+        "endpointURL": {
+            "@id": "http://www.w3.org/ns/dcat#endpointURL",
+            "@type": "@id"
+        },
+        "conformsTo": {
+            "@id": "http://purl.org/dc/terms/conformsTo",
+            "@type": "@id"
+        },
+        "dc.identifier": {
+            "@id": "http://purl.org/dc/elements/1.1/identifier"
+        },
+        "dc.language": {
+            "@id": "http://purl.org/dc/elements/1.1/language",
+            "@language": "nl"
+        },
+        "dc.source": {
+            "@id": "http://purl.org/dc/elements/1.1/source"
+        },
+        "version": {
+            "@id": "http://www.w3.org/2002/07/owl#versionInfo"
+        },
+        "name": {
+            "@id": "http://spdx.org/rdf/terms#name"
+        },
+        "seeAlso": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+            "@type": "@id"
+        },
+        "inScheme": {
+            "@id": "http://www.w3.org/2004/02/skos/core#inScheme",
+            "@type": "@id"
+        },
+        "topConceptOf": {
+            "@id": "http://www.w3.org/2004/02/skos/core#topConceptOf",
+            "@type": "@id"
+        },
+        "hasTopConcept": {
+            "@id": "http://www.w3.org/2004/02/skos/core#hasTopConcept",
+            "@type": "@id"
+        },
+        "uri": {
+            "@id": "@id",
+            "@type": "@id"
+        },
+        "prefLabel": {
+            "@id": "http://www.w3.org/2004/02/skos/core#prefLabel",
+            "@language": "nl"
+        },
+        "notation": {
+            "@id": "http://www.w3.org/2004/02/skos/core#notation"
+        },
+        "altLabel": {
+            "@id": "http://www.w3.org/2004/02/skos/core#altLabel",
+            "@language": "nl"
+        },
+        "note": {
+            "@id": "http://www.w3.org/2004/02/skos/core#note",
+            "@language": "nl"
+        },
+        "definition": {
+            "@id": "http://www.w3.org/2004/02/skos/core#definition",
+            "@language": "nl"
+        },
+        "member": {
+            "@id": "http://www.w3.org/2004/02/skos/core#member",
+            "@type": "@id"
+        },
+        "casNumber": {
+            "@id": "http://dbpedia.org/ontology/casNumber"
+        },
+        "references": {
+            "@id": "http://purl.org/dc/terms/references",
+            "@type": "@id"
+        },
+        "isReferencedBy": {
+            "@id": "http://purl.org/dc/terms/isReferencedBy",
+            "@type": "@id"
+        },
+        "relation": {
+            "@id": "http://purl.org/dc/terms/relation",
+            "@type": "@id"
+        },
+        "graph": {
+            "@id": "@graph"
+        },
+        "broaderTransitive": {
+            "@id": "http://www.w3.org/2004/02/skos/core#broaderTransitive",
+            "@type": "@id"
+        },
+        "broadMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#broadMatch",
+            "@type": "@id"
+        },
+        "closeMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#closeMatch",
+            "@type": "@id"
+        },
+        "exactMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#exactMatch",
+            "@type": "@id"
+        },
+        "mappingRelation": {
+            "@id": "http://www.w3.org/2004/02/skos/core#mappingRelation",
+            "@type": "@id"
+        },
+        "broader": {
+            "@id": "http://www.w3.org/2004/02/skos/core#broader",
+            "@type": "@id"
+        },
+        "narrower": {
+            "@id": "http://www.w3.org/2004/02/skos/core#narrower",
+            "@type": "@id"
+        },
+        "narrowerTransitive": {
+            "@id": "http://www.w3.org/2004/02/skos/core#narrowerTransitive",
+            "@type": "@id"
+        },
+        "narrowMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#narrowMatch",
+            "@type": "@id"
+        },
+        "semanticRelation": {
+            "@id": "http://www.w3.org/2004/02/skos/core#semanticRelation",
+            "@type": "@id"
+        },
+        "belongsTo": {
+            "@id": "http://rdf-vocabulary.ddialliance.org/xkos#belongsTo",
+            "@type": "@id"
+        },
+        "concept": "https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/",
+        "collectie": "https://data.bodemenondergrond.vlaanderen.be/id/collection/meeteenheid/",
+        "access_right": "http://publications.europa.eu/resource/authority/access-right/",
+        "adms": "http://www.w3.org/ns/adms#",
+        "assettype": "http://purl.org/adms/assettype/",
+        "conceptscheme": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
+        "country": "http://publications.europa.eu/resource/authority/country/",
+        "datasets": "https://datasets.omgeving.vlaanderen.be/",
+        "datatheme_be": "http://vocab.belgif.be/auth/datatheme/",
+        "datatheme_eu": "http://publications.europa.eu/resource/authority/data-theme/",
+        "dbo": "http://dbpedia.org/ontology/",
+        "dcat": "http://www.w3.org/ns/dcat#",
         "dc": "http://purl.org/dc/elements/1.1/",
-        "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#"
-    }
+        "dcterms": "http://purl.org/dc/terms/",
+        "dct": "http://purl.org/dc/terms/",
+        "eurovoc": "http://eurovoc.europa.eu/",
+        "file_type": "http://publications.europa.eu/resource/authority/file-type/",
+        "foaf": "http://xmlns.com/foaf/0.1/",
+        "formats": "http://www.w3.org/ns/formats/",
+        "frequency": "http://publications.europa.eu/resource/authority/frequency/",
+        "gemet": "http://www.eionet.europa.eu/gemet/concept/",
+        "licence": "http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/",
+        "metadata": "https://data.omgeving.vlaanderen.be/ns/metadata#",
+        "omg_catalog": "https://data.bodemenondergrond.vlaanderen.be/id/catalog/",
+        "omg_catalog_doc": "https://data.bodemenondergrond.vlaanderen.be/doc/catalog/",
+        "omg_collection": "https://data.bodemenondergrond.vlaanderen.be/id/collection/",
+        "omg_dataservice": "https://data.bodemenondergrond.vlaanderen.be/id/dataservice/",
+        "omg_dataset_doc": "https://data.bodemenondergrond.vlaanderen.be/doc/dataset/",
+        "omg_dataset": "https://data.bodemenondergrond.vlaanderen.be/id/dataset/",
+        "omg_distribution_doc": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/",
+        "omg_distribution": "https://data.bodemenondergrond.vlaanderen.be/id/distribution/",
+        "omg_graphcollection": "https://data.bodemenondergrond.vlaanderen.be/id/graphcollection/",
+        "omg_graph": "https://data.bodemenondergrond.vlaanderen.be/id/graph/",
+        "omg_id": "https://data.bodemenondergrond.vlaanderen.be/id/",
+        "omg_named_graph": "https://data.bodemenondergrond.vlaanderen.be/id/namedgraph/",
+        "omg_ontology": "https://data.bodemenondergrond.vlaanderen.be/id/ontology/",
+        "omg_package": "https://data.bodemenondergrond.vlaanderen.be/id/package/",
+        "omg_periodoftime": "https://data.bodemenondergrond.vlaanderen.be/id/periodoftime/",
+        "omg_service": "https://data.bodemenondergrond.vlaanderen.be/id/service/",
+        "omg_vcard": "https://data.bodemenondergrond.vlaanderen.be/id/vcard/",
+        "ovo": "http://data.vlaanderen.be/id/organisatie/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "repo": "https://repo.omgeving.vlaanderen.be/artifactory/release/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "sd": "http://www.w3.org/ns/sparql-service-description#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "spdx": "http://spdx.org/rdf/terms#",
+        "ssd": "http://www.w3.org/ns/sparql-service-description#",
+        "ts": "http://www.w3.org/ns/formats/",
+        "vcard": "http://www.w3.org/2006/vcard/ns#",
+        "void": "http://rdfs.org/ns/void#",
+        "wise": "http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/",
+        "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "@base": "https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/"
+    },
+    "graph": [
+        {
+            "id": "collectie:meeteenheid",
+            "type": "skos:Collection",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.collection.meeteenheid.meeteenheid",
+            "inScheme": "conceptscheme:meeteenheid",
+            "member": [
+                "concept:1000",
+                "concept:100",
+                "concept:101",
+                "concept:102",
+                "concept:103",
+                "concept:104",
+                "concept:105",
+                "concept:106",
+                "concept:107",
+                "concept:108",
+                "concept:109",
+                "concept:110",
+                "concept:111",
+                "concept:112",
+                "concept:113",
+                "concept:114",
+                "concept:115",
+                "concept:116",
+                "concept:117",
+                "concept:118",
+                "concept:119",
+                "concept:120",
+                "concept:121",
+                "concept:122",
+                "concept:123",
+                "concept:124",
+                "concept:125",
+                "concept:126",
+                "concept:127",
+                "concept:128",
+                "concept:129",
+                "concept:130",
+                "concept:131",
+                "concept:132",
+                "concept:133",
+                "concept:134",
+                "concept:135",
+                "concept:136",
+                "concept:137",
+                "concept:138",
+                "concept:139",
+                "concept:140",
+                "concept:141",
+                "concept:142",
+                "concept:143",
+                "concept:144",
+                "concept:145",
+                "concept:18",
+                "concept:19",
+                "concept:1",
+                "concept:200",
+                "concept:20",
+                "concept:21",
+                "concept:22",
+                "concept:23",
+                "concept:24",
+                "concept:2",
+                "concept:3",
+                "concept:4",
+                "concept:6",
+                "concept:7",
+                "concept:8",
+                "concept:9",
+                "concept:B_PF",
+                "concept:B_VV"
+            ],
+            "prefLabel": "Collectie van meeteenheid."
+        },
+        {
+            "id": "concept:1",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.1",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "1",
+            "prefLabel": "Onbekend",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:100",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.100",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "100",
+            "prefLabel": "/100ml",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:1000",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.1000",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "1000",
+            "prefLabel": "µg/kg droge stof",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:101",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.101",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "101",
+            "prefLabel": "mg O2/l",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:102",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.102",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "102",
+            "prefLabel": "Sörensen",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:103",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.103",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "103",
+            "prefLabel": "/50ml",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:104",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.104",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "104",
+            "prefLabel": "mS/cm (25°C)",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:105",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.105",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "105",
+            "prefLabel": "mS/cm (20°C)",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:106",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.106",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "106",
+            "prefLabel": "mg N/l",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:107",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.107",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "107",
+            "prefLabel": "mEq/100mL",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:108",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.108",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "108",
+            "prefLabel": "mg P/l",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:109",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.109",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "109",
+            "prefLabel": "mg S/L",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:110",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.110",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "110",
+            "prefLabel": "mg Pt/L",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:111",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.111",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "111",
+            "prefLabel": "helder",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:112",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.112",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "112",
+            "prefLabel": "normaal",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:113",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.113",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "113",
+            "prefLabel": "/250ml",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:114",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.114",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "114",
+            "prefLabel": "meq/l",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:115",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.115",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "115",
+            "prefLabel": "-",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:116",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.116",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "116",
+            "prefLabel": "µS/cm(20°C)",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:117",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.117",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "117",
+            "prefLabel": "/ml",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:118",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.118",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "118",
+            "prefLabel": "Franse _hardheidsgraden",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:119",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.119",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "119",
+            "prefLabel": "Volt",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:120",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.120",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "120",
+            "prefLabel": "parts per million",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:121",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.121",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "121",
+            "prefLabel": "parts per billion",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:122",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.122",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "122",
+            "prefLabel": "Duitse_hardheidsgraden",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:123",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.123",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "123",
+            "prefLabel": "mg/l Platinum-Cobalt",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:124",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.124",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "124",
+            "prefLabel": "mg CaCO3/l",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:125",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.125",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "125",
+            "prefLabel": "µS/cm (25°C)",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:126",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.126",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "126",
+            "prefLabel": "g/kg",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:127",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.127",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "127",
+            "prefLabel": "%",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:128",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.128",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "128",
+            "prefLabel": "m/s",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:129",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.129",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "129",
+            "prefLabel": "t/m³",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:130",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.130",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "130",
+            "prefLabel": "g MB/100g droog monster",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:131",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.131",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "131",
+            "prefLabel": "cm",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:132",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.132",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "132",
+            "prefLabel": "M",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:133",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.133",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "133",
+            "prefLabel": "g/100g",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:134",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.134",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "134",
+            "prefLabel": "µm",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:135",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.135",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "135",
+            "prefLabel": "t/ha",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:136",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.136",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "136",
+            "prefLabel": "m",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:137",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.137",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "137",
+            "prefLabel": "µS/cm bij 20°C",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:138",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.138",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "138",
+            "prefLabel": "g/cm3",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:139",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.139",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "139",
+            "prefLabel": "mg/kg",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:140",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.140",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "140",
+            "prefLabel": "mmol/kg",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:141",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.141",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "141",
+            "prefLabel": "cmol(+)/kg",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:142",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.142",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "142",
+            "prefLabel": "meq/100g",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:143",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.143",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "143",
+            "prefLabel": "g",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:144",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.144",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "144",
+            "prefLabel": "nm",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:145",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.145",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "145",
+            "prefLabel": "mm",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:18",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.18",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "18",
+            "prefLabel": "microgram per liter",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:19",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.19",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "19",
+            "prefLabel": "Franse hardheidsgraden",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:2",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.2",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "2",
+            "prefLabel": "nanogram per liter",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:20",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.20",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "20",
+            "prefLabel": "Kelvin",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:200",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.200",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "200",
+            "prefLabel": "mTAW",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:21",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.21",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "21",
+            "prefLabel": "millimol per liter",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:22",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.22",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "22",
+            "prefLabel": "Duitse hardheidsgraden",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:23",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.23",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "23",
+            "prefLabel": "test2",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:24",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.24",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "24",
+            "prefLabel": "test3",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:3",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.3",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "3",
+            "prefLabel": "graden Celsius",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:4",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.4",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "4",
+            "prefLabel": "microSiemens per cm",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:6",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.6",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "6",
+            "prefLabel": "millivolt",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:7",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.7",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "7",
+            "prefLabel": "milimeter per liter",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:8",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.8",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "8",
+            "prefLabel": "hardheids graden",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:9",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.9",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "9",
+            "prefLabel": "milligram per liter",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:B_PF",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.B_PF",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "B_PF",
+            "prefLabel": "hPa",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "concept:B_VV",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.B_VV",
+            "inScheme": "conceptscheme:meeteenheid",
+            "notation": "B_VV",
+            "prefLabel": "m3/m3",
+            "topConceptOf": "conceptscheme:meeteenheid"
+        },
+        {
+            "id": "conceptscheme:meeteenheid",
+            "type": "skos:ConceptScheme",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.meeteenheid",
+            "hasTopConcept": [
+                "concept:1000",
+                "concept:100",
+                "concept:101",
+                "concept:102",
+                "concept:103",
+                "concept:104",
+                "concept:105",
+                "concept:106",
+                "concept:107",
+                "concept:108",
+                "concept:109",
+                "concept:110",
+                "concept:111",
+                "concept:112",
+                "concept:113",
+                "concept:114",
+                "concept:115",
+                "concept:116",
+                "concept:117",
+                "concept:118",
+                "concept:119",
+                "concept:120",
+                "concept:121",
+                "concept:122",
+                "concept:123",
+                "concept:124",
+                "concept:125",
+                "concept:126",
+                "concept:127",
+                "concept:128",
+                "concept:129",
+                "concept:130",
+                "concept:131",
+                "concept:132",
+                "concept:133",
+                "concept:134",
+                "concept:135",
+                "concept:136",
+                "concept:137",
+                "concept:138",
+                "concept:139",
+                "concept:140",
+                "concept:141",
+                "concept:142",
+                "concept:143",
+                "concept:144",
+                "concept:145",
+                "concept:18",
+                "concept:19",
+                "concept:1",
+                "concept:200",
+                "concept:20",
+                "concept:21",
+                "concept:22",
+                "concept:23",
+                "concept:24",
+                "concept:2",
+                "concept:3",
+                "concept:4",
+                "concept:6",
+                "concept:7",
+                "concept:8",
+                "concept:9",
+                "concept:B_PF",
+                "concept:B_VV"
+            ],
+            "prefLabel": "Lijst van meeteenheden"
+        }
+    ]
 }

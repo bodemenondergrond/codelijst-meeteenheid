@@ -1,408 +1,455 @@
-@prefix colt: <https://data.bodemenondergrond.vlaanderen.be/id/collection/meeteenheid/> .
-@prefix cs:   <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/> .
-@prefix ct:   <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/> .
-@prefix dc:   <http://purl.org/dc/elements/1.1/> .
-@prefix dct:  <http://purl.org/dc/terms/> .
-@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
-@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
-
-ct:119  rdf:type           skos:Concept;
-        dc:identifier      "119";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "Volt"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:200  rdf:type           skos:Concept;
-        dc:identifier      "200";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mTAW"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:22   rdf:type           skos:Concept;
-        dc:identifier      "22";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "Duitse hardheidsgraden"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:9    rdf:type           skos:Concept;
-        dc:identifier      "9";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "milligram per liter"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:106  rdf:type           skos:Concept;
-        dc:identifier      "106";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mg N/l"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:134  rdf:type           skos:Concept;
-        dc:identifier      "134";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "µm"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:121  rdf:type           skos:Concept;
-        dc:identifier      "121";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "parts per billion"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:127  rdf:type           skos:Concept;
-        dc:identifier      "127";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "%"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:114  rdf:type           skos:Concept;
-        dc:identifier      "114";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "meq/l"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:4    rdf:type           skos:Concept;
-        dc:identifier      "4";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "microSiemens per cm"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:142  rdf:type           skos:Concept;
-        dc:identifier      "142";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "meq/100g"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:101  rdf:type           skos:Concept;
-        dc:identifier      "101";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mg O2/l"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:1000  rdf:type          skos:Concept;
-        dc:identifier      "1000";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "µg/kg droge stof"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:23   rdf:type           skos:Concept;
-        dc:identifier      "23";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "test2"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:107  rdf:type           skos:Concept;
-        dc:identifier      "107";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mEq/100mL"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:135  rdf:type           skos:Concept;
-        dc:identifier      "135";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "t/ha"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:122  rdf:type           skos:Concept;
-        dc:identifier      "122";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "Duitse_hardheidsgraden"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:128  rdf:type           skos:Concept;
-        dc:identifier      "128";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "m/s"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:115  rdf:type           skos:Concept;
-        dc:identifier      "115";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "-"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:143  rdf:type           skos:Concept;
-        dc:identifier      "143";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "g"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:102  rdf:type           skos:Concept;
-        dc:identifier      "102";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "Sörensen"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:130  rdf:type           skos:Concept;
-        dc:identifier      "130";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "g MB/100g droog monster"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:24   rdf:type           skos:Concept;
-        dc:identifier      "24";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "test3"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:B_VV  rdf:type          skos:Concept;
-        dc:identifier      "B_VV";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "m3/m3"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:108  rdf:type           skos:Concept;
-        dc:identifier      "108";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mg P/l"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:136  rdf:type           skos:Concept;
-        dc:identifier      "136";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "m"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:123  rdf:type           skos:Concept;
-        dc:identifier      "123";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mg/l Platinum-Cobalt"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:110  rdf:type           skos:Concept;
-        dc:identifier      "110";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mg Pt/L"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:129  rdf:type           skos:Concept;
-        dc:identifier      "129";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "t/m³"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:116  rdf:type           skos:Concept;
-        dc:identifier      "116";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "µS/cm(20°C)"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:6    rdf:type           skos:Concept;
-        dc:identifier      "6";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "millivolt"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:144  rdf:type           skos:Concept;
-        dc:identifier      "144";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "nm"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:103  rdf:type           skos:Concept;
-        dc:identifier      "103";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "/50ml"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:131  rdf:type           skos:Concept;
-        dc:identifier      "131";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "cm"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:109  rdf:type           skos:Concept;
-        dc:identifier      "109";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mg S/L"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:137  rdf:type           skos:Concept;
-        dc:identifier      "137";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "µS/cm bij 20°C"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-cs:meeteenheid  skos:hasTopConcept  ct:24 , ct:22 , ct:126 , ct:128 , ct:B_PF , ct:124 , ct:109 , ct:144 , ct:107 , ct:127 , ct:123 , ct:18 , ct:121 , ct:142 , ct:119 , ct:141 , ct:117 , ct:113 , ct:133 , ct:131 , ct:116 , ct:9 , ct:112 , ct:110 , ct:7 , ct:3 , ct:6 , ct:2 , ct:23 , ct:21 , ct:108 , ct:B_VV , ct:130 , ct:106 , ct:138 , ct:20 , ct:102 , ct:136 , ct:122 , ct:120 , ct:105 , ct:103 , ct:101 , ct:140 , ct:115 , ct:111 , ct:1 , ct:129 , ct:125 , ct:145 , ct:143 , ct:19 , ct:1000 , ct:139 , ct:137 , ct:135 , ct:118 , ct:104 , ct:114 , ct:100 , ct:134 , ct:132 , ct:8 , ct:200 , ct:4 .
-
-ct:124  rdf:type           skos:Concept;
-        dc:identifier      "124";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mg CaCO3/l"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:1    rdf:type           skos:Concept;
-        dc:identifier      "1";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "Onbekend"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:111  rdf:type           skos:Concept;
-        dc:identifier      "111";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "helder"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:18   rdf:type           skos:Concept;
-        dc:identifier      "18";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "microgram per liter"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:117  rdf:type           skos:Concept;
-        dc:identifier      "117";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "/ml"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:20   rdf:type           skos:Concept;
-        dc:identifier      "20";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "Kelvin"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:145  rdf:type           skos:Concept;
-        dc:identifier      "145";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mm"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:7    rdf:type           skos:Concept;
-        dc:identifier      "7";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "milimeter per liter"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:104  rdf:type           skos:Concept;
-        dc:identifier      "104";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mS/cm (25°C)"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:132  rdf:type           skos:Concept;
-        dc:identifier      "132";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "M"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:138  rdf:type           skos:Concept;
-        dc:identifier      "138";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "g/cm3"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:125  rdf:type           skos:Concept;
-        dc:identifier      "125";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "µS/cm (25°C)"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:112  rdf:type           skos:Concept;
-        dc:identifier      "112";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "normaal"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:2    rdf:type           skos:Concept;
-        dc:identifier      "2";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "nanogram per liter"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:140  rdf:type           skos:Concept;
-        dc:identifier      "140";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mmol/kg"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:19   rdf:type           skos:Concept;
-        dc:identifier      "19";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "Franse hardheidsgraden"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:118  rdf:type           skos:Concept;
-        dc:identifier      "118";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "Franse _hardheidsgraden"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:21   rdf:type           skos:Concept;
-        dc:identifier      "21";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "millimol per liter"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:8    rdf:type           skos:Concept;
-        dc:identifier      "8";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "hardheids graden"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:B_PF  rdf:type          skos:Concept;
-        dc:identifier      "B_PF";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "hPa"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:105  rdf:type           skos:Concept;
-        dc:identifier      "105";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mS/cm (20°C)"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-colt:meeteenheid  rdf:type    skos:Collection;
-        dc:identifier         "meeteenheid";
-        skos:inScheme         <file:///tmp/RtmpQWLGPP/cs>;
-        skos:mappingRelation  <file:///tmp/RtmpQWLGPP/meeteenheid>;
-        skos:member           ct:107 , ct:117 , ct:127 , ct:137 , ct:19 , ct:3 , ct:104 , ct:114 , ct:124 , ct:134 , ct:144 , ct:130 , ct:140 , ct:109 , ct:101 , ct:111 , ct:131 , ct:121 , ct:119 , ct:23 , ct:20 , ct:7 , ct:4 , ct:118 , ct:128 , ct:138 , ct:9 , ct:105 , ct:115 , ct:125 , ct:B_PF , ct:145 , ct:135 , ct:141 , ct:24 , ct:1 , ct:102 , ct:112 , ct:122 , ct:132 , ct:8 , ct:1000 , ct:B_VV , ct:21 , ct:129 , ct:139 , ct:18 , ct:2 , ct:106 , ct:116 , ct:126 , ct:136 , ct:142 , ct:200 , ct:103 , ct:113 , ct:123 , ct:133 , ct:143 , ct:108 , ct:22 , ct:100 , ct:110 , ct:120 , ct:6;
-        skos:prefLabel        "Collectie van meeteenheid."@nl .
-
-ct:133  rdf:type           skos:Concept;
-        dc:identifier      "133";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "g/100g"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:120  rdf:type           skos:Concept;
-        dc:identifier      "120";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "parts per million"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:139  rdf:type           skos:Concept;
-        dc:identifier      "139";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "mg/kg"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:126  rdf:type           skos:Concept;
-        dc:identifier      "126";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "g/kg"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:113  rdf:type           skos:Concept;
-        dc:identifier      "113";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "/250ml"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:3    rdf:type           skos:Concept;
-        dc:identifier      "3";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "graden Celsius"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:141  rdf:type           skos:Concept;
-        dc:identifier      "141";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "cmol(+)/kg"@nl;
-        skos:topConceptOf  cs:meeteenheid .
-
-ct:100  rdf:type           skos:Concept;
-        dc:identifier      "100";
-        skos:inScheme      cs:meeteenheid;
-        skos:prefLabel     "/100ml"@nl;
-        skos:topConceptOf  cs:meeteenheid .
+@prefix concept: <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/>.
+@prefix collectie: <https://data.bodemenondergrond.vlaanderen.be/id/collection/meeteenheid/>.
+@prefix access_right: <http://publications.europa.eu/resource/authority/access-right/>.
+@prefix adms: <http://www.w3.org/ns/adms#>.
+@prefix assettype: <http://purl.org/adms/assettype/>.
+@prefix conceptscheme: <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/>.
+@prefix country: <http://publications.europa.eu/resource/authority/country/>.
+@prefix datasets: <https://datasets.omgeving.vlaanderen.be/>.
+@prefix datatheme_be: <http://vocab.belgif.be/auth/datatheme/>.
+@prefix datatheme_eu: <http://publications.europa.eu/resource/authority/data-theme/>.
+@prefix dbo: <http://dbpedia.org/ontology/>.
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix eurovoc: <http://eurovoc.europa.eu/>.
+@prefix file_type: <http://publications.europa.eu/resource/authority/file-type/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix formats: <http://www.w3.org/ns/formats/>.
+@prefix frequency: <http://publications.europa.eu/resource/authority/frequency/>.
+@prefix gemet: <http://www.eionet.europa.eu/gemet/concept/>.
+@prefix licence: <http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/>.
+@prefix metadata: <https://data.omgeving.vlaanderen.be/ns/metadata#>.
+@prefix omg_catalog: <https://data.bodemenondergrond.vlaanderen.be/id/catalog/>.
+@prefix omg_catalog_doc: <https://data.bodemenondergrond.vlaanderen.be/doc/catalog/>.
+@prefix omg_collection: <https://data.bodemenondergrond.vlaanderen.be/id/collection/>.
+@prefix omg_dataservice: <https://data.bodemenondergrond.vlaanderen.be/id/dataservice/>.
+@prefix omg_dataset_doc: <https://data.bodemenondergrond.vlaanderen.be/doc/dataset/>.
+@prefix omg_dataset: <https://data.bodemenondergrond.vlaanderen.be/id/dataset/>.
+@prefix omg_distribution_doc: <https://data.bodemenondergrond.vlaanderen.be/doc/distribution/>.
+@prefix omg_distribution: <https://data.bodemenondergrond.vlaanderen.be/id/distribution/>.
+@prefix omg_graphcollection: <https://data.bodemenondergrond.vlaanderen.be/id/graphcollection/>.
+@prefix omg_graph: <https://data.bodemenondergrond.vlaanderen.be/id/graph/>.
+@prefix omg_id: <https://data.bodemenondergrond.vlaanderen.be/id/>.
+@prefix omg_named_graph: <https://data.bodemenondergrond.vlaanderen.be/id/namedgraph/>.
+@prefix omg_ontology: <https://data.bodemenondergrond.vlaanderen.be/id/ontology/>.
+@prefix omg_package: <https://data.bodemenondergrond.vlaanderen.be/id/package/>.
+@prefix omg_periodoftime: <https://data.bodemenondergrond.vlaanderen.be/id/periodoftime/>.
+@prefix omg_service: <https://data.bodemenondergrond.vlaanderen.be/id/service/>.
+@prefix omg_vcard: <https://data.bodemenondergrond.vlaanderen.be/id/vcard/>.
+@prefix ovo: <http://data.vlaanderen.be/id/organisatie/>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix repo: <https://repo.omgeving.vlaanderen.be/artifactory/release/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix spdx: <http://spdx.org/rdf/terms#>.
+@prefix ssd: <http://www.w3.org/ns/sparql-service-description#>.
+@prefix ts: <http://www.w3.org/ns/formats/>.
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix wise: <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/>.
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+collectie:meeteenheid dc:identifier "be.vlaanderen.bodemenondergrond.data.id.collection.meeteenheid.meeteenheid";
+    a skos:Collection;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:member <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/1000>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/100>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/101>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/102>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/103>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/104>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/105>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/106>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/107>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/108>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/109>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/110>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/111>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/112>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/113>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/114>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/115>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/116>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/117>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/118>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/119>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/120>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/121>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/122>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/123>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/124>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/125>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/126>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/127>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/128>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/129>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/130>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/131>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/132>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/133>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/134>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/135>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/136>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/137>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/138>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/139>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/140>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/141>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/142>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/143>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/144>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/145>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/18>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/19>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/1>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/200>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/20>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/21>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/22>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/23>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/24>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/2>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/3>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/4>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/6>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/7>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/8>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/9>, concept:B_PF, concept:B_VV;
+    skos:prefLabel "Collectie van meeteenheid."@nl.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/1000> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.1000";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "1000";
+    skos:prefLabel "µg/kg droge stof"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/100> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.100";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "100";
+    skos:prefLabel "/100ml"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/101> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.101";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "101";
+    skos:prefLabel "mg O2/l"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/102> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.102";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "102";
+    skos:prefLabel "Sörensen"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/103> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.103";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "103";
+    skos:prefLabel "/50ml"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/104> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.104";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "104";
+    skos:prefLabel "mS/cm (25°C)"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/105> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.105";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "105";
+    skos:prefLabel "mS/cm (20°C)"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/106> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.106";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "106";
+    skos:prefLabel "mg N/l"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/107> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.107";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "107";
+    skos:prefLabel "mEq/100mL"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/108> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.108";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "108";
+    skos:prefLabel "mg P/l"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/109> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.109";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "109";
+    skos:prefLabel "mg S/L"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/110> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.110";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "110";
+    skos:prefLabel "mg Pt/L"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/111> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.111";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "111";
+    skos:prefLabel "helder"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/112> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.112";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "112";
+    skos:prefLabel "normaal"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/113> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.113";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "113";
+    skos:prefLabel "/250ml"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/114> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.114";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "114";
+    skos:prefLabel "meq/l"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/115> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.115";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "115";
+    skos:prefLabel "-"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/116> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.116";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "116";
+    skos:prefLabel "µS/cm(20°C)"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/117> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.117";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "117";
+    skos:prefLabel "/ml"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/118> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.118";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "118";
+    skos:prefLabel "Franse _hardheidsgraden"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/119> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.119";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "119";
+    skos:prefLabel "Volt"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/120> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.120";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "120";
+    skos:prefLabel "parts per million"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/121> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.121";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "121";
+    skos:prefLabel "parts per billion"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/122> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.122";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "122";
+    skos:prefLabel "Duitse_hardheidsgraden"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/123> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.123";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "123";
+    skos:prefLabel "mg/l Platinum-Cobalt"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/124> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.124";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "124";
+    skos:prefLabel "mg CaCO3/l"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/125> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.125";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "125";
+    skos:prefLabel "µS/cm (25°C)"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/126> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.126";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "126";
+    skos:prefLabel "g/kg"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/127> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.127";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "127";
+    skos:prefLabel "%"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/128> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.128";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "128";
+    skos:prefLabel "m/s"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/129> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.129";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "129";
+    skos:prefLabel "t/m³"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/130> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.130";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "130";
+    skos:prefLabel "g MB/100g droog monster"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/131> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.131";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "131";
+    skos:prefLabel "cm"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/132> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.132";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "132";
+    skos:prefLabel "M"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/133> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.133";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "133";
+    skos:prefLabel "g/100g"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/134> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.134";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "134";
+    skos:prefLabel "µm"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/135> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.135";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "135";
+    skos:prefLabel "t/ha"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/136> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.136";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "136";
+    skos:prefLabel "m"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/137> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.137";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "137";
+    skos:prefLabel "µS/cm bij 20°C"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/138> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.138";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "138";
+    skos:prefLabel "g/cm3"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/139> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.139";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "139";
+    skos:prefLabel "mg/kg"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/140> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.140";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "140";
+    skos:prefLabel "mmol/kg"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/141> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.141";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "141";
+    skos:prefLabel "cmol(+)/kg"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/142> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.142";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "142";
+    skos:prefLabel "meq/100g"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/143> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.143";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "143";
+    skos:prefLabel "g"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/144> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.144";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "144";
+    skos:prefLabel "nm"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/145> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.145";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "145";
+    skos:prefLabel "mm"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/18> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.18";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "18";
+    skos:prefLabel "microgram per liter"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/19> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.19";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "19";
+    skos:prefLabel "Franse hardheidsgraden"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/1> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.1";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "1";
+    skos:prefLabel "Onbekend"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/200> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.200";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "200";
+    skos:prefLabel "mTAW"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/20> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.20";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "20";
+    skos:prefLabel "Kelvin"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/21> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.21";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "21";
+    skos:prefLabel "millimol per liter"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/22> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.22";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "22";
+    skos:prefLabel "Duitse hardheidsgraden"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/23> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.23";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "23";
+    skos:prefLabel "test2"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/24> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.24";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "24";
+    skos:prefLabel "test3"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/2> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.2";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "2";
+    skos:prefLabel "nanogram per liter"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/3> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.3";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "3";
+    skos:prefLabel "graden Celsius"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/4> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.4";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "4";
+    skos:prefLabel "microSiemens per cm"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/6> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.6";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "6";
+    skos:prefLabel "millivolt"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/7> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.7";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "7";
+    skos:prefLabel "milimeter per liter"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/8> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.8";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "8";
+    skos:prefLabel "hardheids graden"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/9> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.9";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "9";
+    skos:prefLabel "milligram per liter"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+concept:B_PF dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.B_PF";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "B_PF";
+    skos:prefLabel "hPa"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+concept:B_VV dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.B_VV";
+    a skos:Concept;
+    skos:inScheme conceptscheme:meeteenheid;
+    skos:notation "B_VV";
+    skos:prefLabel "m3/m3"@nl;
+    skos:topConceptOf conceptscheme:meeteenheid.
+conceptscheme:meeteenheid dc:identifier "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.meeteenheid";
+    a skos:ConceptScheme;
+    skos:hasTopConcept <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/1000>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/100>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/101>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/102>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/103>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/104>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/105>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/106>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/107>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/108>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/109>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/110>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/111>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/112>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/113>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/114>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/115>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/116>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/117>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/118>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/119>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/120>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/121>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/122>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/123>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/124>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/125>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/126>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/127>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/128>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/129>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/130>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/131>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/132>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/133>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/134>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/135>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/136>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/137>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/138>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/139>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/140>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/141>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/142>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/143>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/144>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/145>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/18>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/19>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/1>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/200>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/20>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/21>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/22>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/23>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/24>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/2>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/3>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/4>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/6>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/7>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/8>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/meeteenheid/9>, concept:B_PF, concept:B_VV;
+    skos:prefLabel "Lijst van meeteenheden"@nl.

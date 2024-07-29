@@ -1,0 +1,68 @@
+uri,dc.identifier,collections,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
+collectie:meeteenheid,be.vlaanderen.bodemenondergrond.data.id.collection.meeteenheid.meeteenheid,,,Collectie van meeteenheid.,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,
+concept:127,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.127,collectie:meeteenheid,127,%,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:115,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.115,collectie:meeteenheid,115,-,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:100,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.100,collectie:meeteenheid,100,/100ml,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:113,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.113,collectie:meeteenheid,113,/250ml,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:103,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.103,collectie:meeteenheid,103,/50ml,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:131,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.131,collectie:meeteenheid,131,cm,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:141,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.141,collectie:meeteenheid,141,cmol(+)/kg,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:22,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.22,collectie:meeteenheid,22,Duitse hardheidsgraden,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:122,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.122,collectie:meeteenheid,122,Duitse_hardheidsgraden,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:118,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.118,collectie:meeteenheid,118,Franse _hardheidsgraden,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:19,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.19,collectie:meeteenheid,19,Franse hardheidsgraden,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:143,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.143,collectie:meeteenheid,143,g,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:133,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.133,collectie:meeteenheid,133,g/100g,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:138,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.138,collectie:meeteenheid,138,g/cm3,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:126,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.126,collectie:meeteenheid,126,g/kg,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:130,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.130,collectie:meeteenheid,130,g MB/100g droog monster,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:3,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.3,collectie:meeteenheid,3,graden Celsius,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:8,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.8,collectie:meeteenheid,8,hardheids graden,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:111,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.111,collectie:meeteenheid,111,helder,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:B_PF,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.B_PF,collectie:meeteenheid,B_PF,hPa,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:20,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.20,collectie:meeteenheid,20,Kelvin,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:136,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.136,collectie:meeteenheid,136,m,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:132,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.132,collectie:meeteenheid,132,M,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:B_VV,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.B_VV,collectie:meeteenheid,B_VV,m3/m3,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:142,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.142,collectie:meeteenheid,142,meq/100g,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:107,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.107,collectie:meeteenheid,107,mEq/100mL,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:114,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.114,collectie:meeteenheid,114,meq/l,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:124,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.124,collectie:meeteenheid,124,mg CaCO3/l,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:139,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.139,collectie:meeteenheid,139,mg/kg,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:123,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.123,collectie:meeteenheid,123,mg/l Platinum-Cobalt,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:106,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.106,collectie:meeteenheid,106,mg N/l,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:101,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.101,collectie:meeteenheid,101,mg O2/l,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:108,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.108,collectie:meeteenheid,108,mg P/l,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:110,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.110,collectie:meeteenheid,110,mg Pt/L,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:109,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.109,collectie:meeteenheid,109,mg S/L,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:18,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.18,collectie:meeteenheid,18,microgram per liter,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:4,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.4,collectie:meeteenheid,4,microSiemens per cm,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:7,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.7,collectie:meeteenheid,7,milimeter per liter,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:9,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.9,collectie:meeteenheid,9,milligram per liter,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:21,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.21,collectie:meeteenheid,21,millimol per liter,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:6,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.6,collectie:meeteenheid,6,millivolt,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:117,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.117,collectie:meeteenheid,117,/ml,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:145,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.145,collectie:meeteenheid,145,mm,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:140,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.140,collectie:meeteenheid,140,mmol/kg,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:128,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.128,collectie:meeteenheid,128,m/s,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:105,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.105,collectie:meeteenheid,105,mS/cm (20°C),,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:104,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.104,collectie:meeteenheid,104,mS/cm (25°C),,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:200,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.200,collectie:meeteenheid,200,mTAW,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:2,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.2,collectie:meeteenheid,2,nanogram per liter,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:144,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.144,collectie:meeteenheid,144,nm,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:112,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.112,collectie:meeteenheid,112,normaal,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:1,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.1,collectie:meeteenheid,1,Onbekend,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:121,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.121,collectie:meeteenheid,121,parts per billion,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:120,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.120,collectie:meeteenheid,120,parts per million,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:102,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.102,collectie:meeteenheid,102,Sörensen,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:23,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.23,collectie:meeteenheid,23,test2,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:24,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.24,collectie:meeteenheid,24,test3,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:135,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.135,collectie:meeteenheid,135,t/ha,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:129,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.129,collectie:meeteenheid,129,t/m³,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:119,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.119,collectie:meeteenheid,119,Volt,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:1000,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.1000,collectie:meeteenheid,1000,µg/kg droge stof,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:134,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.134,collectie:meeteenheid,134,µm,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:116,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.116,collectie:meeteenheid,116,µS/cm(20°C),,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:125,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.125,collectie:meeteenheid,125,µS/cm (25°C),,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+concept:137,be.vlaanderen.bodemenondergrond.data.id.concept.meeteenheid.137,collectie:meeteenheid,137,µS/cm bij 20°C,,,,,,,,,,,,,conceptscheme:meeteenheid,,,,,,,conceptscheme:meeteenheid
+conceptscheme:meeteenheid,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.meeteenheid,,,Lijst van meeteenheden,,,,,,,,,,,,,,,,,,,,
